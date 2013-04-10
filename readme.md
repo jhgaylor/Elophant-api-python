@@ -1,3 +1,5 @@
+An overhaul is coming... I hope :D
+
 #usage examples
 #a = api(key="###")
 # print a.champions()
