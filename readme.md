@@ -2,6 +2,8 @@ An overhaul is coming... I hope :D
 
 #Docs are available again. I'll get this updated and off of slumber.  requests will replace it. I'll possibly also abstract it to an object like form, so instead of making api calls, you request object attributes that get calculated on the fly via sync api calls.
 
+http://www.elophant.com/league-of-legends/api/docs
+
 #usage examples
 #a = api(key="###")
 # print a.champions()
